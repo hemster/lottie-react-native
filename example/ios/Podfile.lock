@@ -1,7 +1,7 @@
 PODS:
-  - lottie-ios (2.5.0)
-  - lottie-react-native (2.3.2):
-    - lottie-ios
+  - lottie-ios (2.5.3)
+  - lottie-react-native (2.6.1):
+    - lottie-ios (~> 2.5.3)
     - React
   - React (0.50.3):
     - React/Core (= 0.50.3)
@@ -58,11 +58,11 @@ EXTERNAL SOURCES:
     :path: "../../node_modules/react-native/ReactCommon/yoga"
 
 SPEC CHECKSUMS:
-  lottie-ios: d699fdee68d7b63e721d949388b015fef1aaa4ac
-  lottie-react-native: f2e118cc10f478bc9857bbdb5568b6f4a9d30cf7
+  lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
+  lottie-react-native: 5b57fe9d154066342d268fdff396ec5a83950d95
   React: 0ba6cae888dc82dc47d6d5f3090615e1b5f6f3e7
   yoga: faecc6be81ca7823ccbb470b93a1b228499fa1c0
 
 PODFILE CHECKSUM: be0838159a84a7921938775eaa183204ca6d5832
 
-COCOAPODS: 1.2.0
+COCOAPODS: 1.6.1
